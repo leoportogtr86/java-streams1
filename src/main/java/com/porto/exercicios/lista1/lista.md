@@ -1,5 +1,3 @@
-Aqui está uma lista de 10 exercícios baseados no artigo sobre a criação de Streams em Java:
-
 1. **Criação de Stream a partir de List:**
     - Crie uma `List` de inteiros contendo os números de 1 a 10. Utilize o método `stream()` para criar uma Stream a
       partir dessa lista e imprima todos os elementos da Stream.
